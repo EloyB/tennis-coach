@@ -1,0 +1,37 @@
+@Api_HostAddress = http://localhost:5241
+
+### List all training sessions
+GET {{Api_HostAddress}}/api/training-sessions
+Accept: application/json
+
+### Create a new training session
+POST {{Api_HostAddress}}/api/training-sessions
+Content-Type: application/json
+
+{
+  "scheduledAt": "2026-02-10T10:00:00Z",
+  "durationMinutes": 60,
+  "type": 0,
+  "notes": "Focus on backhand technique"
+}
+
+### Get a specific training session (replace with actual ID)
+GET {{Api_HostAddress}}/api/training-sessions/{{sessionId}}
+Accept: application/json
+
+### Update a training session (replace with actual ID)
+PUT {{Api_HostAddress}}/api/training-sessions/{{sessionId}}
+Content-Type: application/json
+
+{
+  "scheduledAt": "2026-02-10T11:00:00Z",
+  "durationMinutes": 90,
+  "type": 0,
+  "notes": "Extended session - backhand and serve"
+}
+
+### Cancel a training session (replace with actual ID)
+POST {{Api_HostAddress}}/api/training-sessions/{{sessionId}}/cancel
+
+### Complete a training session (replace with actual ID)
+POST {{Api_HostAddress}}/api/training-sessions/{{sessionId}}/complete

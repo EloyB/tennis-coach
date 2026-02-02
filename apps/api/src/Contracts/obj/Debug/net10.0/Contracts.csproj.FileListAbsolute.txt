@@ -1,0 +1,11 @@
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/bin/Debug/net10.0/Contracts.deps.json
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/bin/Debug/net10.0/Contracts.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/bin/Debug/net10.0/Contracts.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.AssemblyInfoInputs.cache
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.AssemblyInfo.cs
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/refint/Contracts.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/Contracts.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Contracts/obj/Debug/net10.0/ref/Contracts.dll

@@ -1,0 +1,17 @@
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Persistence.deps.json
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Persistence.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Persistence.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Application.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Contracts.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Application.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/bin/Debug/net10.0/Contracts.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.csproj.AssemblyReference.cache
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.AssemblyInfoInputs.cache
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.AssemblyInfo.cs
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persiste.61C28332.Up2Date
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/refint/Persistence.dll
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/Persistence.pdb
+/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Persistence/obj/Debug/net10.0/ref/Persistence.dll

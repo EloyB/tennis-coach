@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yk6i0jt4fE0=",
+  "success": true,
+  "projectFilePath": "/Users/eloyboone/Documents/Studio Swyft/Tennis-Coach/apps/api/src/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/eloyboone/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/eloyboone/.nuget/packages/microsoft.identitymodel.abstractions/8.3.1/microsoft.identitymodel.abstractions.8.3.1.nupkg.sha512",
+    "/Users/eloyboone/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.3.1/microsoft.identitymodel.jsonwebtokens.8.3.1.nupkg.sha512",
+    "/Users/eloyboone/.nuget/packages/microsoft.identitymodel.logging/8.3.1/microsoft.identitymodel.logging.8.3.1.nupkg.sha512",
+    "/Users/eloyboone/.nuget/packages/microsoft.identitymodel.tokens/8.3.1/microsoft.identitymodel.tokens.8.3.1.nupkg.sha512",
+    "/Users/eloyboone/.nuget/packages/system.identitymodel.tokens.jwt/8.3.1/system.identitymodel.tokens.jwt.8.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
